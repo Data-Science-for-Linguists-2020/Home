@@ -55,7 +55,7 @@ Anywhere between 5 and 10 pages, of which a minimum of 3 pages must be devoted t
 <a name="milestones"/></a>
 ## Milestones
 
-The term project carries a total of 400 points, which you accrue over the course of the semester through meeting several, structured, milestones. Refer to the [Schedule page](schedule.md) for the dates.
+The term project carries a total of 400 points, which you accrue over the course of the semester through meeting several, structured, milestones. Refer to the [Schedule page](https://github.com/Data-Science-for-Linguists-2020/Home/blob/master/schedule.md) for the dates.
 
 <!--
 <table class=grey style="table-layout: fixed;">

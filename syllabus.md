@@ -32,7 +32,7 @@ Knowledge of statistics is highly recommended but not required. Uninitiated stud
 
 ### Textbooks
 
-[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html) (2016, O'Reilly Media) is probably the closest thing to a textbook we will have. It will however be utilized more as a reference book. The scope of this course goes beyond core data science skills, for which articles and other materials will be assigned as needed. All throughout, we will be using various resources available on the web: see this [Learning Resources page](resources) for a list.
+[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html) (2016, O'Reilly Media) is probably the closest thing to a textbook we will have. It will however be utilized more as a reference book. The scope of this course goes beyond core data science skills, for which articles and other materials will be assigned as needed. All throughout, we will be using various resources available on the web: see this [Learning Resources page](https://github.com/Data-Science-for-Linguists-2020/Home/blob/master/resources.md) for a list.
 
 ### Required Software
 
@@ -48,7 +48,7 @@ We will be using Python 3: Continuum's [Anaconda distribution](https://www.anaco
 The software applications above should install and run from your own personal laptop, which you are expected to bring to every class meeting. Your laptop should run one of these OS's: Mac OS X (10.6 or later), Windows (7, 8.1 or 10), and Linux (any distribution). Mobile and cloud-based OS's are not supported -- iPads and Chromebooks are not suitable platforms for this class.
 
 ### Course Requirements, Grading and Policies
-Please see the [Course Policies page](https://github.com/Data-Science-for-Linguists-2020/Home/policies.md).
+Please see the [Course Policies page](https://github.com/Data-Science-for-Linguists-2020/Home/blob/master/policies.md).
 
 ### Class Schedule
-Please see the [Class Schedule page](https://github.com/Data-Science-for-Linguists-2020/Home/schedule.md).
+Please see the [Class Schedule page](https://github.com/Data-Science-for-Linguists-2020/Home/blob/master/schedule.md).

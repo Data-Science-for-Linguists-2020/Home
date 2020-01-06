@@ -15,8 +15,8 @@ As a rule, there will always be a form of assignment between classes. Make sure 
 
 1. **Homework Assignments** (50-80 points each): Most of these assignments will involve some type of problem solving through coding.
 1. **To-do Tasks** (10 points each): These will be mini tasks that are assigned between classes. They will comprise smaller tasks focused more on practical aspects, such as learning new software, information gathering, and peer feedback.
-1. **Readings and Self-Guided Learning**: You will have articles to read and various online tutorials and book chapters to study, as outlined in the [Learning Resources page](https://github.com/Data-Science-for-Linguists-2020/Home/resources.md).
-1. **Term Project** (400 total points): In addition to the assignments and readings, you are expected to make steady progress on your term project. See the [Schedule Table](https://github.com/Data-Science-for-Linguists-2020/Home/schedule.md) for the milestone dates and the [Term Project Guidelines page](https://github.com/Data-Science-for-Linguists-2020/Home/project.md) for details of this requirement.
+1. **Readings and Self-Guided Learning**: You will have articles to read and various online tutorials and book chapters to study, as outlined in the [Learning Resources page](https://github.com/Data-Science-for-Linguists-2020/Home/blob/master/resources.md).
+1. **Term Project** (400 total points): In addition to the assignments and readings, you are expected to make steady progress on your term project. See the [Schedule Table](https://github.com/Data-Science-for-Linguists-2020/Home/blob/master/schedule.md) for the milestone dates and the [Term Project Guidelines page](https://github.com/Data-Science-for-Linguists-2020/Home/blob/master/project.md) for details of this requirement.
 
 ## Your Grade
 
@@ -59,7 +59,7 @@ Policies:
 
 ## Grading Rubrics
 
-1. **Term project**: see the [Term Project Guidelines page](https://github.com/Data-Science-for-Linguists-2020/Home/project.md).
+1. **Term project**: see the [Term Project Guidelines page](https://github.com/Data-Science-for-Linguists-2020/Home/blob/master/project.md).
 
 2. **To-do tasks**: These will be graded on a completion-basis. Full 10 points for satisfactory completion; 5 points for unsatisfactory (70% or below) work; 0 for no credit.
 
