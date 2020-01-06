@@ -31,7 +31,7 @@
 <td>1/7</td>
 <td></td>
 <td colspan="2"> Course introduction, setup
-<div class="right"><i><a href="resources#git">Git</a></i></div>
+<div class="right"><i><a href="resources.md#git">Git</a></i></div>
 </td>
 </tr>
 
