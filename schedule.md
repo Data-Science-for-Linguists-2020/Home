@@ -120,7 +120,7 @@
 <td>2/13</td>
 <td>#7</td>
 <td>Open access &amp; data publishing</td>
-<td>Guest speaker Lauren Collister</td>
+<td>Guest speakers Lauren Collister and Dominic Bordelon</td>
 </tr>
 
 <tr>
