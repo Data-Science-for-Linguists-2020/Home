@@ -39,7 +39,7 @@
 <td>1/9</td>
 <td>#1</td>
 <td colspan="2"> Data in linguistics
-<div class="right"><i>Git, GitHub</i></div>
+<div class="right"><i><a href="resources.md#git">Git, GitHub</a></i></div>
 </td>
 </tr>
 
