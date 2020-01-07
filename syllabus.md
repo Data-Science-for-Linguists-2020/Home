@@ -4,8 +4,14 @@
 
 - **Instructors**:
 	- [Jevon Heath](https://www.linguistics.pitt.edu/people/jevon-heath) (`jsh82@pitt`, office hours Tue/Thu 12-1pm & Wed 1-2pm at 901N CL)
+<<<<<<< HEAD
 	- Cassie Maz (TA, `cmm281@pitt`, office hours Thurs. 5:30-7:30 pm, CL 2832)
 	- John Starr (TA, `jrs294@pitt`, OFFICE HOURS at location)
+=======
+	- Cassie Maz (TA, `cmm281@pitt`, OFFICE HOURS at location)
+	- John Starr (TA, `jrs294@pitt`, office hours Tues. 5:30-7:30, 
+CL 2832)
+>>>>>>> 35412e78e8402b7f9f91dd0d55a3fe403b2cd0f1
 	- We are available by appointment!
 
 - **Class meetings**: Tue/Thu 1-2:15pm, 233 Lawrence Hall
