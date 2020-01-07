@@ -37,7 +37,7 @@
 
 <tr>
 <td>1/9</td>
-<td>#1</td>
+<td><a href="todo.md#todo1">#1</a></td>
 <td colspan="2"> Data in linguistics
 <div class="right"><i><a href="resources.md#git">Git, GitHub</a></i></div>
 </td>
@@ -46,7 +46,7 @@
 <tr>
 <td rowspan="2">2</td>
 <td>1/14</td>
-<td>Homework 1</td>
+<td><a href="Homeworks/hw1.md">Homework 1</a></td>
 <td colspan="2">Processing linguistic data
 <div class="right"><i>Jupyter Notebook</i></div>
 </td>
