@@ -22,7 +22,7 @@ For this homework, let's have you explore a linguistic data set using the Python
 
 
 ### Repo, files and folders
-1. Start by forking [this `HW1-Repo` GitHub repository](https://github.com/jevonheath/HW1-Repo).
+1. Start by forking [this `HW1-Repo` GitHub repository](https://github.com/Data-Science-for-Linguists-2020/HW1-Repo).
 1. Once you have your own fork in your GitHub account, clone it onto your laptop. DO NOT DIRECTLY CLONE MY ORIGINAL REPO WITHOUT FORKING FIRST.
 1. In the directory, you will find a folder with your name, say `jevon/`. Your code, as a Jupyter notebook file (`xxx.ipynb`), should go into that directory.
 1. There is a file named `your_file_here.txt`. I put it there simply because without it `git` will ignore empty directories. If you know about `git rm`, use the command to delete it; otherwise, leave it there.
