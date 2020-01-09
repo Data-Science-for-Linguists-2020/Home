@@ -30,7 +30,7 @@
 <td rowspan="2">1</td>
 <td>1/7</td>
 <td></td>
-<td colspan="2"> Course introduction, setup
+<td colspan="2"> [<a href="Slides/lecture1.pdf">slides</a>] Course introduction, setup
 <div class="right"><i><a href="resources.md#git">Git</a></i></div>
 </td>
 </tr>
@@ -38,7 +38,7 @@
 <tr>
 <td>1/9</td>
 <td><a href="todo.md#todo1">#1</a></td>
-<td colspan="2"> Data in linguistics
+<td colspan="2"> [<a href="Slides/lecture2.pdf">slides</a>] Data in linguistics
 <div class="right"><i><a href="resources.md#git">Git, GitHub</a></i></div>
 </td>
 </tr>
