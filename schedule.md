@@ -194,7 +194,7 @@
 <td>3/24</td>
 <td>#13</td>
 <!-- -->
-<td>Supercomputing at <a href="https://crc.pitt.edu/">CRC</a>, SSH, command line</td>
+<td>Supercomputing at <a href="https://crc.pitt.edu/">CRC</a>, SSH, command line. Guest speaker Barry Moore III</td>
 </tr>
 
 <tr>
