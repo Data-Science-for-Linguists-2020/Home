@@ -130,7 +130,7 @@ Below focuses more on the software tools side of resources.
 
 - Anaconda Python download &amp; installation: use version 3.7. [[link](https://www.anaconda.com/download/)]
 - Don't want Anaconda? If you already have another Python distribution installed, you can simply add on `jupyter` via `pip3`. Follow the [directions on this page](https://github.com/mcdonn/LSA2019-Reproducible-Research/blob/master/installation.md), under OPTION 2 for Python.
-- Lynda.com Tutorial: Introduction to Jupyter Notebook, basics, Markdown, How to Launch. (Skip "mathematical typesetting" video.) [[link](https://www.lynda.com/NumPy-tutorials/Introduction-Jupyter-Notebook/508873/543336-4.html)]
+- Dataquest Tutorial: Jupyter Notebook for Beginners [[link](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)]
 - Jupyter Notebook Tutorial: The Definitive Guide on DataCamp (more advanced) [[link](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)]
 
 <a name="bash"/></a>

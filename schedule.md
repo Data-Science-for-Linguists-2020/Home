@@ -48,13 +48,13 @@
 <td>1/14</td>
 <td><a href="Homeworks/hw1.md">Homework 1</a></td>
 <td colspan="2">Processing linguistic data
-<div class="right"><i>Jupyter Notebook</i></div>
+<div class="right"><i><a href="resources.md#jupyter">Jupyter Notebook</a></i></div>
 </td>
 </tr>
 
 <tr>
 <td>1/16</td>
-<td>#2</td>
+<td><a href="todo.md#todo2">#2</a></td>
 <td rowspan="6">Data processing fundamentals, statistics</td>
 <td>Python's <tt>numpy</tt> library</td>
 </tr>
