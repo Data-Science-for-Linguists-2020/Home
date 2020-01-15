@@ -23,11 +23,11 @@ The Internet is full of published linguistic data sets. Let's data-surf! Instruc
 
 
 
-<a name="todo2"/>
+<a name="todo2"/></a>
 ## To-do #2
 Due 1/16 (Th), 12:30pm
 
-Learn about the `numpy` library: study the _Python Data Science Handbook_ and/or the DataCamp tutorial [here](https://www.datacamp.com/courses/intro-to-python-for-data-science). 
+Learn about the `numpy` library: study the _Python Data Science Handbook_ and/or the NumPy documentation [here](https://numpy.org/doc/).
 While doing so, create your own study notes, as a Jupyter Notebook file entitled `numpy_notes_yourname.ipynb`.
 Include examples, explanations, etc. Replicating DataCamp's examples is also something you could do.
 You are essentially creating your own reference material.
