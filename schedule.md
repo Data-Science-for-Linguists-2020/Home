@@ -47,7 +47,7 @@
 <td rowspan="2">2</td>
 <td>1/14</td>
 <td><a href="Homeworks/hw1.md">Homework 1</a></td>
-<td colspan="2">Processing linguistic data
+<td colspan="2"> [<a href="Slides/lecture3.pdf">slides</a>] Processing linguistic data
 <div class="right"><i><a href="resources.md#jupyter">Jupyter Notebook</a></i></div>
 </td>
 </tr>
@@ -62,7 +62,7 @@
 <tr>
 <td rowspan="2">3</td>
 <td>1/21</td>
-<td>#3</td>
+<td><a href="todo.md#todo3">#3</a></td>
 <!-- -->
 <td>Data frames with <tt>pandas</tt>
 <div class="right"><i>Markdown</i></div>

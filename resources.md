@@ -74,6 +74,7 @@
 - Visualization: pandas 0.20.3 documentation [[link](https://pandas.pydata.org/pandas-docs/stable/visualization.html)]
 - Chris Albon's Notes on ML &amp; AI, "Data Wrangling" [[link](https://chrisalbon.com/)]
 - 19 Essential Snippets in Pandas [[link](https://jeffdelaney.me/blog/useful-snippets-in-pandas/)]
+- Favio Vasquez's list of Data Science Cheatsheets to rule the world [[link](https://github.com/FavioVazquez/ds-cheatsheets)]
 
 
 
