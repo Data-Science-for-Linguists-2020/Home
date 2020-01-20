@@ -50,7 +50,6 @@ For this homework, let's have you explore a linguistic data set using the Python
 
 ### Submission
 1. When you think you have the final version of your work, "Restart & Run All" your Jupyter notebook one last time, so the output is all orderly and tidy. Save the notebook.
-<!-- 1. You should also save an HTML version of your notebook: "Download as -> HTML (.html)". Place it in the same directory as your `.ipynb` file. -->
 1. After your local Git routine, push the HW1 repo to your own GitHub fork one last time. Check your GitHub fork to make sure the notebook file is there and everything looks OK. Your data files shouldn't be there.
 1. Finally, create a pull request for me.
 
