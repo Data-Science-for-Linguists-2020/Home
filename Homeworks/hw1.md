@@ -33,7 +33,7 @@ For this homework, let's have you explore a linguistic data set using the Python
 1. While working on your Jupyter Notebook, you should be frequently committing and pushing to your fork.
 
 ### Your code
-1. Your Python code should be written as a Jupyter Notebook. If you are not familiar with it, watch the [Lynda.com tutorial](https://github.com/Data-Science-for-Linguists-2020/Home/blob/master/resources.md#tools).
+1. Your Python code should be written as a Jupyter Notebook. If you are not familiar with it, watch the [Dataquest tutorial](https://github.com/Data-Science-for-Linguists-2020/Home/blob/master/resources.md#tools).
 1. At the top of your Jupyter notebook should be a markdown cell with following information:
   - Your name, email and date
   - Info on your data set. The name, author(s), download URL, etc. Basically what you reported back in To-do 1.
