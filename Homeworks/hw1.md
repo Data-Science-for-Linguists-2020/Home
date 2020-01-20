@@ -37,16 +37,16 @@ For this homework, let's have you explore a linguistic data set using the Python
 1. At the top of your Jupyter notebook should be a markdown cell with following information:
   - Your name, email and date
   - Info on your data set. The name, author(s), download URL, etc. Basically what you reported back in To-do 1.
-1. The second cell, another markdown cell, should contain a self-assessment:
+3. The second cell, another markdown cell, should contain a self-assessment:
   - A summary of what your code does and how you addressed your "discovery" question.
   - A future wish: something that you would have liked to be able to do with this data set but do not know how at the moment.
-1. Your code should achieve the following:
+4. Your code should achieve the following:
   - Open the data files and read in the data.
   - Print out some representative snippets of the data. Don't flash the entire thing -- just enough to get a sense of the content.
   - Print out some basic stats, such as the total number of data points. For corpora, this could be the number of text files, sentences, word tokens, etc.
   - Additionally, you should make one discovery. Pick a question you think you can address with reasonable effort, and explore the data for an answer.
-1. Try and see if you can find a way to utilize the upcoming [NumPy library](https://github.com/Data-Science-for-Linguists-2020/Home/blob/master/resources.md#data_processing) in your data processing. Aggregation functions such as `numpy.sum()` and `numpy.mean()` are easy choices. This part is optional.
-1. Don't forget to make use of markdown cells for organization, explanation and notes. Use comments as you see fit.
+5. Try and see if you can find a way to utilize the upcoming [NumPy library](https://github.com/Data-Science-for-Linguists-2020/Home/blob/master/resources.md#data_processing) in your data processing. Aggregation functions such as `numpy.sum()` and `numpy.mean()` are easy choices. This part is optional.
+6. Don't forget to make use of markdown cells for organization, explanation and notes. Use comments as you see fit.
 
 ### Submission
 1. When you think you have the final version of your work, "Restart & Run All" your Jupyter notebook one last time, so the output is all orderly and tidy. Save the notebook.
