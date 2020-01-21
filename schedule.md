@@ -56,7 +56,7 @@
 <td>1/16</td>
 <td><a href="todo.md#todo2">#2</a></td>
 <td rowspan="6">Data processing fundamentals, statistics</td>
-<td>Python's <tt>numpy</tt> library</td>
+<td>[<a href="Slides/lecture4.pdf">slides</a>] Python's <tt>numpy</tt> library</td>
 </tr>
 
 <tr>
@@ -71,7 +71,7 @@
 
 <tr>
 <td>1/23</td>
-<td>#4</td>
+<td><a href="todo.md#todo4">#4</a></td>
 <!-- -->
 <td>Text processing, stats intro
 </td>

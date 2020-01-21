@@ -52,3 +52,13 @@ Name your Jupyter Notebook file `pandas_notes_yourname.ipynb`. Don't change the 
 
 **SUBMISSION**:  Your files should be in the `todo3/` directory of `Class-Exercise-Repo`.
 Commit and push all three files to your GitHub fork, and create a pull request for me.  
+
+
+
+<a name="todo4"/></a>
+## To-do #4
+Due 1/23 (Thu)
+
+This one is a continuation of To-do #3: work further on your `pandas` study notes. You may create a new JNB file, or you can expand the existing one. Also: try out a spreadsheet submitted by a classmate. You are welcome to view the classmate's notebook to see what they did with it. (How to find out who submitted what? Git/GitHub history of course.) Give them a shout-out.
+
+**SUBMISSION**: We'll stick to the `todo3/` directory in `Class-Exercise-Repo`. Push to your GitHub fork, and create a pull request for me.
