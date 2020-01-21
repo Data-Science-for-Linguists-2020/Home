@@ -64,7 +64,7 @@
 <td>1/21</td>
 <td><a href="todo.md#todo3">#3</a></td>
 <!-- -->
-<td>Data frames with <tt>pandas</tt>
+<td>[<a href="Slides/lecture5-starr.pdf">slides</a>] Data frames with <tt>pandas</tt>
 <div class="right"><i>Markdown</i></div>
 </td>
 </tr>
