@@ -65,7 +65,7 @@
 <td><a href="todo.md#todo3">#3</a></td>
 <!-- -->
 <td>[<a href="Slides/lecture5-starr.pdf">slides</a>] Data frames with <tt>pandas</tt>
-<div class="right"><i>Markdown</i></div>
+<div class="right"><i><a href="resources.md#markdown">Markdown</a></i></div>
 </td>
 </tr>
 
@@ -73,7 +73,7 @@
 <td>1/23</td>
 <td><a href="todo.md#todo4">#4</a></td>
 <!-- -->
-<td>Text processing, stats intro
+<td>[<a href="Slides/lecture6.pdf">slides</a>] Text processing, stats intro
 </td>
 </tr>
 
