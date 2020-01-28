@@ -80,14 +80,14 @@
 <tr>
 <td rowspan="2">4</td>
 <td>1/28</td>
-<td><div class="right"><i>Project ideas</i></div></td>
+<td><div class="right"><i><a href="project.md#ideas">Project ideas</a></i></div></td>
 <!-- -->
 <td>Stats crash course</td>
 </tr>
 
 <tr>
 <td>1/30</td>
-<td>#5</td>
+<td><a href="todo.md#todo5">#5</a></td>
 <!-- -->
 <td>Data visualization
 </td>
