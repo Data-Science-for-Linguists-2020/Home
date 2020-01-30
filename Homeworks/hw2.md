@@ -24,7 +24,7 @@ Beware: if you git-delete the dummy file through <code>git rm</code> BEFORE crea
 ## Goals
 The first goal of this work is **Basic Data Processing**, which involves processing of CSV files and text files. You should build two DataFrame objects: `essay_df` and `prompt_df`.
 
-Building `essay_df` ([see screenshot](etc/hw2_df1.png)):
+Building `essay_df` ([see screenshot](https://github.com/Data-Science-for-Linguists-2020/Home/blob/master/etc/hw2_df1.png)):
 
 1. Start with `index.csv` and build a DataFramed named `essay_df`. Specifics:
 	- Rename `'Language'` column name to `'L1'`, which is a more specific terminology.
@@ -34,7 +34,7 @@ Building `essay_df` ([see screenshot](etc/hw2_df1.png)):
 1. Create a new column called `'Text'`, which stores the string value of each essay content. You will need to find a way to read in each essay text stored as individual files.
 1. As you work on EDA and linguistic analysis, you may create additional columns to hold new data points. I'll leave these up to you. Initially, the DataFrame should look like the screenshot above.
 
-Building `prompt_df` ([see screenshot](etc/hw2_df2.png)):
+Building `prompt_df` ([see screenshot](https://github.com/Data-Science-for-Linguists-2020/Home/blob/master/etc/hw2_df2.png)):
 
 - This is a DataFrame for the prompts. (NOTE: This data is less critical for this homework, so de-prioritize or skip it if you are under time pressure.)
 - It should have two columns:
