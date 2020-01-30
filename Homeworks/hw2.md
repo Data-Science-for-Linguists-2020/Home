@@ -63,7 +63,7 @@ The third and last goal is **Linguistic Analysis**. In particular, we want to be
 
 There are five total measurements. Choose three if you are relatively new to programming; experienced programmers should work on four or all five. Importantly, you must employ **statistical tests** such as the **t-test** or **one-way ANOVA** to demonstrate whether or not a difference is significant.
 
-Additional pointers on analysis: If you haven't taken [LING 1330 "Introduction to Computational Linguistics"](http://www.pitt.edu/~naraehan/ling1330/schedule.html), you might want to learn about NLTK's core text processing functions from [these slides](http://www.pitt.edu/~naraehan/ling1330/Lecture8.pdf). Additionally, if you are going for 4b., which is the most involved kind of task, you might want to consult [this homework](http://www.pitt.edu/~naraehan/ling1330/hw5a.html) or [this one](http://www.pitt.edu/~naraehan/ling1330/hw5b.html). (Thanks Na-Rae!)
+Additional pointers on analysis: If you haven't taken [LING 1330 "Introduction to Computational Linguistics"](http://www.pitt.edu/~naraehan/ling1330/schedule.html), you might want to learn about NLTK's core text processing functions from [these slides](http://www.pitt.edu/~naraehan/ling1330/Lecture8.pdf). Additionally, if you are going for 4b., which is the most involved kind of task, you might want to consult [this homework](http://www.pitt.edu/~naraehan/ling1330/hw3.html). (Thanks Na-Rae!)
 
 
 
@@ -84,7 +84,4 @@ Additional pointers on analysis: If you haven't taken [LING 1330 "Introduction t
 
 1. When you think you are finished, "Restart & Run All" your Jupyter notebook one last time, so the output is all orderly and tidy. Save the file.
 1. After the usual local Git routine, push to your own GitHub fork one last time. Check it to make sure your file is there and everything looks OK.
-1. Finally, create a pull request for me.
-
-This is NOT rolling submission. The original repo is private, meaning only our class members have read access. Your fork will automatically become private for your access only. I will wait until the assignment deadline to merge in your pull requests, which means your homework will essentially be visible to yourself only until I process your pull request.
-(ADDENDUM: Turns out there was a loophole. A pull request and its content, even those from a private fork, are visible to everyone who has read access to the original upstream repo. We are changing the submission method starting from HW3.)
+1. Finally, DO NOT create a pull request! We will do this together in class on Tuesday.
