@@ -63,7 +63,7 @@ The third and last goal is **Linguistic Analysis**. In particular, we want to be
 
 There are five total measurements. Choose three if you are relatively new to programming; experienced programmers should work on four or all five. Importantly, you must employ **statistical tests** such as the **t-test** or **one-way ANOVA** to demonstrate whether or not a difference is significant.
 
-Additional pointers on analysis: If you haven't taken [LING 1330 "Introduction to Computational Linguistics"](http://www.pitt.edu/~naraehan/ling1330/schedule.html), you might want to learn about NLTK's core text processing functions from [these slides](http://www.pitt.edu/~naraehan/ling1330/Lab14.pdf). Additionally, if you are going for 4b., which is the most involved kind of task, you might want to consult [this homework](http://www.pitt.edu/~naraehan/ling1330/hw5a.html) or [this one](http://www.pitt.edu/~naraehan/ling1330/hw5b.html). (Thanks Na-Rae!)
+Additional pointers on analysis: If you haven't taken [LING 1330 "Introduction to Computational Linguistics"](http://www.pitt.edu/~naraehan/ling1330/schedule.html), you might want to learn about NLTK's core text processing functions from [these slides](http://www.pitt.edu/~naraehan/ling1330/Lecture8.pdf). Additionally, if you are going for 4b., which is the most involved kind of task, you might want to consult [this homework](http://www.pitt.edu/~naraehan/ling1330/hw5a.html) or [this one](http://www.pitt.edu/~naraehan/ling1330/hw5b.html). (Thanks Na-Rae!)
 
 
 

@@ -96,14 +96,14 @@
 <tr>
 <td rowspan="2">5</td>
 <td>2/4</td>
-<td>Homework 2</td>
+<td><a href="Homeworks/hw2.md">Homework 2</a></td>
 <!-- -->
 <td>HW2 review</td>
 </tr>
 
 <tr>
 <td>2/6</td>
-<td><div class="right"><i>Project plan</i></div></td>
+<td><div class="right"><i><a href="project.md#plan">Project plan</a></i></div></td>
 <td rowspan="2">Corpus linguistics, annotation</td>
 <td>Corpus concepts, building &amp; processing</td>
 </tr>

@@ -123,3 +123,32 @@ You should come up with one or two project ideas. Include these details:
 - The PRESENTATION portion. We don't expect a whole lot of variability on this, but describe anything noteworthy you have in mind.
 
 **Submission**: In the `project_ideas/` directory of `Class-Exercise-Repo`, create a markdown-formatted text file named `project_ideas_YOURNAME.md`. Commit, push to your fork, and create a pull request for the instructors.
+
+
+
+<a name="plan"/></a>
+## Project Plan
+
+
+Launch your project as a GitHub repository and publish a project plan.
+
+- Create a repository within our [GitHub class organization](https://github.com/Data-Science-for-Linguists-2020).
+   - Give it a descriptive name that is not too long. Good choice: "Inaugural-Address-Analysis", bad: "Jevon-Term-Project".
+   - Provide a description. This is a short tagline that appears under your repo title. Start with something simple. Make sure your name is in there. (See the two screenshots above.)   
+   - The repository should be public. 
+   - Initialize with a README.
+- This is YOUR repo! No forking necessary: just clone it and get to work.
+- Your repo should have the following files:
+   - `README.md`: Include your name, project title, and a brief summary here. We'll keep this page minimal for now.
+   - `LICENSE.md`: You will eventually need to specify a license for your project. Build it now as a place holder.
+   - `project_plan.md`: This is your project plan. Start with your project ideas document and polish it up.
+   - `progress_report.md`: This is where you will log your progress. Add your first entry.
+   - `.gitignore`: Include the usual files and directories to be ignored.
+- Can't wait to get started? Read the following.
+   - You are welcome to put other directories and files in your local repo as you see fit, but do NOT commit them to Git yet. Reason: once anything is on Git and GitHub, it's always there (i.e., recoverable) as part of the commit history.
+   - Likewise, don't commit your data files yet. You are likely unsure at this stage whether or not you have the rights to share the data freely.
+   - A suggestion: create a directory called `private/` where you will keep any private notes and data files. Add this directory to your `.gitignore` file.
+   - Having said that, don't be afraid to publish changes to your GitHub repo on an ongoing basis. The instructors have access to your repo's state at any given point in time, so there is no need to keep your repo pristine & frozen until a grade is posted.
+
+<br>
+**Submission**: Your project repo counts as your submission.
