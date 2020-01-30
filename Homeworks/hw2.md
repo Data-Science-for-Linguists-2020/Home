@@ -84,4 +84,4 @@ Additional pointers on analysis: If you haven't taken [LING 1330 "Introduction t
 
 1. When you think you are finished, "Restart & Run All" your Jupyter notebook one last time, so the output is all orderly and tidy. Save the file.
 1. After the usual local Git routine, push to your own GitHub fork one last time. Check it to make sure your file is there and everything looks OK.
-1. Finally, DO NOT create a pull request! We will do this together in class on Tuesday.
+1. Finally, push your work to your fork. **DO NOT create a pull request! We will do this together in class on Tuesday.**
