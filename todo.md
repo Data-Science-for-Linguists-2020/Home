@@ -67,7 +67,7 @@ This one is a continuation of To-do #3: work further on your `pandas` study note
 
 <a name="todo5"/></a>
 ## To-do #5
-Due 1/30 (Thu) 
+Due 1/30 (Thu)
 
 For this To-do, refer back to the edited version of `english.csv` from class Activity 3. Add a markdown cell block to your Jupyter Notebook file for activity3 clearly labeling the beginning of To-do #5.
 
@@ -79,3 +79,22 @@ This time we'll look at the response times for the naming task (`RTnaming`). The
 1. The column `Voice` specifies whether a word's initial phoneme was voiced or voiceless. Make a boxplot for the distribution of reaction times across voiced and voiceless phonemes, grouped by subject age.
 
 **SUBMISSION**: Submit a pull request including your updated JNB file.
+
+
+
+
+<a name="todo6"/></a>
+## To-do #6
+Due 2/11 (Tue)
+
+The [Gries &amp; Newman article](resources#corpus) cites many famous corpora and corpus resources. Let's round them all up in a single spot, complete with web links. We will collaborate on a shared document called [`'corpora_tools_list.md'`](https://github.com/Data-Science-for-Linguists-2020/Class-Plaza/blob/master/corpora_tools_list.md).
+
+- The [`Class-Plaza` repo](https://github.com/Data-Science-for-Linguists-2020/Class-Plaza) belongs to all of us: we are all listed as a collaborator. 
+- That means all of us has full read and write access: in GitHub's lingo, we have 'push access'.
+- Which means no need to fork; you should directly clone. After that, push and pull directly.
+
+Your job is to fill out the three tables: add at least one entry to each table. Make sure you are not duplicating someone else's entry.
+Because everyone is editing the same document, you may run into a conflict while trying to push.
+Make sure you have read and understood this [tutorial on Git conflicts](https://github.com/mcdonn/LSA2019-Reproducible-Research/blob/master/linking_git_and_github.md#conflicts) and resolve accordingly.
+
+**SUBMISSION**: There is no formal submission process, because this one does not involve you issuing a pull request or anything like that. I will check on the repo later to see you have indeed made your contribution.  

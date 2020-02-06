@@ -29,7 +29,7 @@
 <a name="corpus"/></a>
 ### Corpus Linguistics
 
-- Stefan Th. Gries and John Newman. (2013) Creating and using corpora. In Podesva, Robert J., and Devyani Sharma. (Ed.), Research Methods in Linguistics. [[PDF](http://www.linguistics.ucsb.edu/faculty/stgries/research/2013_STG-JN_CreatingUsingCorpora_ResMethLing.pdf)]
+- Stefan Th. Gries and John Newman. (2013) Creating and using corpora. In Podesva, Robert J., and Devyani Sharma. (Ed.), Research Methods in Linguistics. [[PDF](http://www.stgries.info/research/2013_STG-JN_CreatingUsingCorpora_ResMethLing.pdf)]
 - NLTK Book Ch.2 Accessing Text Corpora and Lexical Resources [[chapter](https://www.nltk.org/book/ch02.html)]
 - NLTK Book Ch.11 Managing Linguistic Data [[chapter](https://www.nltk.org/book/ch11.html)]
 - NLTK Corpora Index [[link](https://www.nltk.org/nltk_data/)] [[GitHub repo](https://github.com/nltk/nltk_data)]

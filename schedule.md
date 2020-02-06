@@ -111,7 +111,7 @@
 <tr>
 <td rowspan="2">6</td>
 <td>2/11</td>
-<td>#6</td>
+<td><a href="todo.md#todo6">#6</a></td>
 <!-- -->
 <td>Annotation, data standards &amp; exchange formats</td>
 </tr>
