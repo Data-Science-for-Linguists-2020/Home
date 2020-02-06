@@ -105,7 +105,7 @@
 <td>2/6</td>
 <td><div class="right"><i><a href="project.md#plan">Project plan</a></i></div></td>
 <td rowspan="2">Corpus linguistics, annotation</td>
-<td>Corpus concepts, building &amp; processing</td>
+<td>[<a href="Slides/lecture7.pdf">slides</a>] Corpus concepts, building &amp; processing</td>
 </tr>
 
 <tr>
