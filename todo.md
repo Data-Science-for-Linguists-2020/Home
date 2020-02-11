@@ -98,3 +98,16 @@ Because everyone is editing the same document, you may run into a conflict while
 Make sure you have read and understood this [tutorial on Git conflicts](https://github.com/mcdonn/LSA2019-Reproducible-Research/blob/master/linking_git_and_github.md#conflicts) and resolve accordingly.
 
 **SUBMISSION**: There is no formal submission process, because this one does not involve you issuing a pull request or anything like that. I will check on the repo later to see you have indeed made your contribution.  
+
+
+
+
+<a name="todo7"/></a>
+## To-do #7
+Due 2/13 (Thu)
+
+Let's pool our questions together for [Dr. Lauren Collister](https://openaccess.pitt.edu/node/33) and [Dominic Bordelon](http://dominicbordelon.com/), who will be our guest speakers on Thursday.
+Review the topics of [linguistic data, open access, and data publishing](https://github.com/Data-Science-for-Linguists-2020/resources.md#linguistic_data), focusing in particular on these three resources: _Data Management Plans for Linguistic Research_, Kitzes (2018), and the Copyright and Intellectual Property Toolkit.
+Think of a question for Lauren, and add yours along with your name to the `questions_coll_bord.md` file in our [`Class-Plaza` repo](https://github.com/Data-Science-for-Linguists-2020/Class-Plaza). 
+
+**SUBMISSION**: Push your commit directly to the `Class-Plaza` repo. Make sure you don't trample on someone else's contribution. If there is a conflict, it is your job to resolve it.
