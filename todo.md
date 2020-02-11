@@ -87,9 +87,9 @@ This time we'll look at the response times for the naming task (`RTnaming`). The
 ## To-do #6
 Due 2/11 (Tue)
 
-The [Gries &amp; Newman article](resources#corpus) cites many famous corpora and corpus resources. Let's round them all up in a single spot, complete with web links. We will collaborate on a shared document called [`'corpora_tools_list.md'`](https://github.com/Data-Science-for-Linguists-2020/Class-Plaza/blob/master/corpora_tools_list.md).
+The [Gries &amp; Newman article](resources.md#corpus) cites many famous corpora and corpus resources. Let's round them all up in a single spot, complete with web links. We will collaborate on a shared document called [`'corpora_tools_list.md'`](https://github.com/Data-Science-for-Linguists-2020/Class-Plaza/blob/master/corpora_tools_list.md).
 
-- The [`Class-Plaza` repo](https://github.com/Data-Science-for-Linguists-2020/Class-Plaza) belongs to all of us: we are all listed as a collaborator. 
+- The [`Class-Plaza` repo](https://github.com/Data-Science-for-Linguists-2020/Class-Plaza) belongs to all of us: we are all listed as a collaborator.
 - That means all of us has full read and write access: in GitHub's lingo, we have 'push access'.
 - Which means no need to fork; you should directly clone. After that, push and pull directly.
 
