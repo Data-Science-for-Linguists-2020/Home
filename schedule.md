@@ -113,12 +113,12 @@
 <td>2/11</td>
 <td><a href="todo.md#todo6">#6</a></td>
 <!-- -->
-<td>Annotation, data standards &amp; exchange formats</td>
+<td>[<a href="Slides/lecture8.pdf">slides</a>] Annotation, data standards &amp; exchange formats</td>
 </tr>
 
 <tr>
 <td>2/13</td>
-<td>#7</td>
+<td><a href="todo.md#todo7">#7</a></td>
 <td>Open access &amp; data publishing</td>
 <td>Guest speakers Lauren Collister and Dominic Bordelon</td>
 </tr>
@@ -126,7 +126,7 @@
 <tr>
 <td rowspan="2">7</td>
 <td>2/18</td>
-<td>#8</td>
+<td><a href="todo.md#todo8">#8</a></td>
 <td rowspan="6">Data mining and machine learning</td>
 <td>Data-mining web &amp; social media</td>
 </tr>

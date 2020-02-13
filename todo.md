@@ -108,6 +108,34 @@ Due 2/13 (Thu)
 
 Let's pool our questions together for [Dr. Lauren Collister](https://openaccess.pitt.edu/node/33) and [Dominic Bordelon](http://dominicbordelon.com/), who will be our guest speakers on Thursday.
 Review the topics of [linguistic data, open access, and data publishing](https://github.com/Data-Science-for-Linguists-2020/resources.md#linguistic_data), focusing in particular on these three resources: _Data Management Plans for Linguistic Research_, Kitzes (2018), and the Copyright and Intellectual Property Toolkit.
-Think of a question for Lauren, and add yours along with your name to the `questions_coll_bord.md` file in our [`Class-Plaza` repo](https://github.com/Data-Science-for-Linguists-2020/Class-Plaza). 
+Think of a question for Lauren, and add yours along with your name to the `questions_coll_bord.md` file in our [`Class-Plaza` repo](https://github.com/Data-Science-for-Linguists-2020/Class-Plaza).
 
 **SUBMISSION**: Push your commit directly to the `Class-Plaza` repo. Make sure you don't trample on someone else's contribution. If there is a conflict, it is your job to resolve it.
+
+
+
+
+<a name="todo8"/></a>
+## To-do #8
+Due 2/18 (Tue)
+
+Let's try Twitter mining! On a tiny scale that is. This blog post [Data Analysis using Twitter](http://blog.impiyush.com/2015/03/data-analysis-using-twitter-api-and.html) presents an easy-to-follow, step-by-step tutorial, so you should follow it along.
+
+First, you will need to install the `tweepy` library:
+
+- Option 1: Install through Anaconda Navigator. See [this screenshot](https://github.com/Data-Science-for-Linguists-2020/Home/blob/master/etc/todo8_tweepyinstall1.png).
+   - See if Tweepy is installed. It likely isn't -- download and install it.
+- Option 2: Manual installation through pip. See [these](https://github.com/Data-Science-for-Linguists-2020/Home/blob/master/etc/todo8_tweepyinstall2.png) [screenshots](https://github.com/Data-Science-for-Linguists-2020/Home/blob/master/etc/todo8_tweepyinstall3.png).
+   - If `which pip` does not show your Anaconda version of pip, it means you cannot simply go `pip install tweepy`. You will instead have to specify the complete path for Anaconda's pip. So, find your Anaconda installation path, and install Tweepy like so:
+`/c/ProgramData/Anaconda3/Scripts/pip install tweepy`
+   - Your pip path might be something like `/c/Users/your-user-name/Anaconda3/...`. You should use TAB completion while typing out the path.
+   - If you are having trouble finding your Anaconda's path, try `which -a python`. The `-a` flag shows all python executables found in your path.
+
+
+Notes on using `tweepy`:
+
+- If you don't have a Twitter account, you will have to create one first. And then, you should create an API account.
+- This is exciting stuff, but don't go overboard! 100 Tweets are enough for this exercise. Overloading API without taking proper cautionary steps is a sure-fire way to get yourself banned from tech sites.
+- You will be using your 'Consumer Key' and 'Consumer Secret' in your code. You should not be sharing them! Right before committing, redact them in your JNB file by changing the string values to 'XXXXXXXXXXXXXX'.  
+
+**SUBMISSION**: We are switching back to [`Class-Exercise-Repo`](https://github.com/Data-Science-for-Linguists-2020/Class-Exercise-Repo); use the `todo8/` folder. Your Jupyter Notebook file should have your name in the file name. Push to your fork and create a pull request. Make sure you have redacted your personal API keys!
