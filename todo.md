@@ -139,3 +139,18 @@ Notes on using `tweepy`:
 - You will be using your 'Consumer Key' and 'Consumer Secret' in your code. You should not be sharing them! Right before committing, redact them in your JNB file by changing the string values to 'XXXXXXXXXXXXXX'.  
 
 **SUBMISSION**: We are switching back to [`Class-Exercise-Repo`](https://github.com/Data-Science-for-Linguists-2020/Class-Exercise-Repo); use the `todo8/` folder. Your Jupyter Notebook file should have your name in the file name. Push to your fork and create a pull request. Make sure you have redacted your personal API keys!
+
+
+
+<a name="todo9"/></a>
+## To-do #9
+Due 2/20 (Thu)
+
+What have the [previous students](https://github.com/Data-Science-for-Linguists) [of LING 1340/2340](https://github.com/Data-Science-for-Linguists-2019) accomplished? What do finished projects look like? Let's have you explore their past projects. Details:
+
+- We'll collaborate on a single file: [`todo9_past_project_critiques.md`](https://github.com/Data-Science-for-Linguists-2020/Class-Plaza/blob/master/todo9_past_project_critiques.md) in `Class-Plaza`.
+- Pick **two projects**, but you can't pick one that already has three critiques. (If someone gets the last spot while you're working, you'll have to pick a new one. And: declaring "dibs" is allowed, as long as you intend to finish the work within the next hour.)
+- Create a section for yourself. Provide a link to the project repo.
+- Your critique should consist of: one thing you thought was done well, one avenue for improvement, and one thing you learned.
+
+**SUBMISSION**: Push your commit directly to the `Class-Plaza` repo. Make sure you don't trample on someone else's contribution. If there is a conflict, it is your job to resolve it.

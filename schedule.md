@@ -128,13 +128,13 @@
 <td>2/18</td>
 <td><a href="todo.md#todo8">#8</a></td>
 <td rowspan="6">Data mining and machine learning</td>
-<td>Data-mining web &amp; social media</td>
+<td>[<a href="Slides/lecture9.pdf">slides</a>] Data-mining web &amp; social media</td>
 </tr>
 
 
 <tr>
 <td>2/20</td>
-<td>#9</td>
+<td><a href="todo.md#todo9">#9</a></td>
 <!-- -->
 <td>Regression modeling
 </tr>
