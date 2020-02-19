@@ -1,6 +1,6 @@
 # Term Project Guidelines
 
-Jump to: [Components](#components), [Submission](#submission), [Milestones](#milestones).
+Jump to: [Components](#components), [Submission](#submission), [Milestones](#milestones), [Project Ideas](#ideas), [Project Plan](#plan), [1st Progress Report](#prog1).
 
 Individual students will work on a project of their own choice and design over the course of the semester, culminating with a class presentation followed by a final project delivery. The goal of this project is to make a linguistic discovery through application of data-intensive methods.
 
@@ -135,7 +135,7 @@ Launch your project as a GitHub repository and publish a project plan.
 - Create a repository within our [GitHub class organization](https://github.com/Data-Science-for-Linguists-2020).
    - Give it a descriptive name that is not too long. Good choice: "Inaugural-Address-Analysis", bad: "Jevon-Term-Project".
    - Provide a description. This is a short tagline that appears under your repo title. Start with something simple. Make sure your name is in there. (See the two screenshots above.)   
-   - The repository should be public. 
+   - The repository should be public.
    - Initialize with a README.
 - This is YOUR repo! No forking necessary: just clone it and get to work.
 - Your repo should have the following files:
@@ -151,4 +151,45 @@ Launch your project as a GitHub repository and publish a project plan.
    - Having said that, don't be afraid to publish changes to your GitHub repo on an ongoing basis. The instructors have access to your repo's state at any given point in time, so there is no need to keep your repo pristine & frozen until a grade is posted.
 
 <br>
+**Submission**: Your project repo counts as your submission.
+
+
+
+
+<a name="prog1"/></a>
+## 1st Progress Report
+
+For the 1st progress report, **focus on your data**. This milestone consists of 30 data points and 10 presentation points. Goals:
+
+- Attempt and mostly complete the data acquisition process.
+- Start and make a head way into cleaning and reorganizing your data.
+- By now, you should have concrete ideas on the "data end game": what your data's final form will be like, the target total size, format, etc.
+- Devise a couple of options regarding the "sharing plan" of your data.
+
+Contents:
+
+1. `progress_report.md`
+    - Create a section entitled "1st Progress Report", and then provide a summary of what you accomplished. Keep it short (a screen-full), and provide links to related documents, including your Jupyter Notebook and data samples.
+	- Include a subsection where you outline a couple of options (or a single option, if you are fairly sure) regarding the "sharing plan" for your data. You should plan out how much and what you will be sharing. Make sure to include a justification.
+1. A python script in the form of a Jupyter Notebook.
+   - Provide an overview of your data. Clearly document each step of your data processing pipeline.
+   - Compile some basic stats on your data: the size and the make up are the bare minimum.
+   - Bullet points have their uses, but let's see some written summaries and explanations too.
+   - Remember: your Jupyter Notebook file is also your presentation. Make it easy for the instructors and your classmates to understand what you are doing. Explain your goals, show your data and your processes.
+1. _Some form_ of your data. If all of your data is currently stored in a git-ignored directory, make an appropriately sized samples available in a directory called `data_samples/`.
+
+
+Above are the minimum requirements, but do feel free to impose additional organization as you see fit. This is your project after all! But when you do so, make sure you provide an explanation.
+
+<input type="button" class="button" onclick="return toggleMe('startover')" value="Need to start over?" >
+<div class="hint" id="startover">
+Some of you may have discovered that your project is not panning out as you had hoped and you need to start over. This is your last chance to do so; you will have to launch a viable project quickly. As far as your project repository is concerned, you should keep the old one (along with its Git history) but alter it to fit your new project:
+<ul>
+<li>Change your GitHub repository's name. That changes its URL, so you will need to update your local Git's remotes setting.</li>
+<li>In your <code>project_plan.md</code> file, round up the old content into a section and mark it clearly as your old plan which is no longer current. On the top, write out your new plan.</li>
+<li>Upate your <code>progress_report.md</code> file with an explanation of what happened and why this change of course was necessary. You'll need your 1st progress report too.</li>
+<li>You should edit <code>README.md</code> and any other files accordingly to fit your new project direction. They shouldn't contain references to your old plan.</li>
+</ul>
+</div>  
+
 **Submission**: Your project repo counts as your submission.

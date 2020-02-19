@@ -120,7 +120,7 @@
 <td>2/13</td>
 <td><a href="todo.md#todo7">#7</a></td>
 <td>Open access &amp; data publishing</td>
-<td>Guest speakers Lauren Collister and Dominic Bordelon</td>
+<td>[<a href="Slides/Data Sharing For Linguists.pdf">slides</a>] Guest speakers Lauren Collister and Dominic Bordelon</td>
 </tr>
 
 <tr>
@@ -143,7 +143,7 @@
 <tr>
 <td rowspan="2">8</td>
 <td>2/25</td>
-<td><div class="right"><i>1st progress report</i></div></td>
+<td><div class="right"><i><a href="project.md#prog1">1st progress report</a></i></div></td>
 <!-- -->
 <td>NB classifier, count vectors, TF-IDF</td>
 </tr>
