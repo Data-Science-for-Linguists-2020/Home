@@ -150,7 +150,7 @@
 
 <tr>
 <td>2/27</td>
-<td>#10</td>
+<td><a href="todo.md#todo10">#10</a></td>
 <!-- -->
 <td>Classifiers continued, categorical data</td>
 </tr>
