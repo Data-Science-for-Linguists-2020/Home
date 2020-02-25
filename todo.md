@@ -154,3 +154,17 @@ What have the [previous students](https://github.com/Data-Science-for-Linguists)
 - Your critique should consist of: one thing you thought was done well, one avenue for improvement, and one thing you learned.
 
 **SUBMISSION**: Push your commit directly to the `Class-Plaza` repo. Make sure you don't trample on someone else's contribution. If there is a conflict, it is your job to resolve it.
+
+
+
+<a name="todo10"/>
+## To-do #10
+Due 2/27 (Thu)
+
+Let's try sentiment analysis on movie reviews. Follow [this tutorial from PyLing](http://www.pitt.edu/~naraehan/presentation/Movie%20Reviews%20sentiment%20analysis%20with%20Scikit-Learn.html) in your own Jupyter Notebook file.
+Feel free to explore and make changes as you see fit. If you haven't already, review the [_Python Data Science Handbook_](https://github.com/Data-Science-for-Linguists-2020/Home/blob/master/resources.md#data-mining--machine-learning) chapters to give yourself a good grounding.
+Also: watch these (or equivalent) YouTube tutorials [Scikit-Learn Tutorial | Machine Learning With Scikit-Learn](https://www.youtube.com/watch?v=0Lt9w-BxKFQ), and [NLP Tutorial with Python & NLTK](https://www.youtube.com/watch?v=X2vAabgKiuM).
+
+Students who took LING 1330: compare sklearn's Naive Bayes with [NLTK's treatment](http://www.pitt.edu/~naraehan/ling1330/Lecture11.pdf) and include a blurb on your impression. (You don't have to run NLTK's code, unless you want to!)
+
+**SUBMISSION**: Your jupyter notebook file should be in the `todo10` folder of [`Class-Exercise-Repo`](https://github.com/Data-Science-for-Linguists-2020/Class-Exercise-Repo). As usual, push to your fork and create a pull request.
