@@ -136,7 +136,7 @@
 <td>2/20</td>
 <td><a href="todo.md#todo9">#9</a></td>
 <!-- -->
-<td>Regression modeling
+<td>[<a href="Notebooks/regression_intro.ipynb">notebook</a>] (Linear) regression modeling</td>
 </tr>
 
 
@@ -145,20 +145,20 @@
 <td>2/25</td>
 <td><div class="right"><i><a href="project.md#prog1">1st progress report</a></i></div></td>
 <!-- -->
-<td>NB classifier, count vectors, TF-IDF</td>
+<td>[<a href="Notebooks/regression_pt2.ipynb">notebook</a>] Logistic regression and classification</td>
 </tr>
 
 <tr>
 <td>2/27</td>
 <td><a href="todo.md#todo10">#10</a></td>
 <!-- -->
-<td>Classifiers continued, categorical data</td>
+<td>[<a href="Notebooks/Classification_and_Categorical_Data.ipynb">notebook</a>] Classifiers continued, categorical data</td>
 </tr>
 
 <tr>
 <td rowspan="2">9</td>
 <td>3/3</td>
-<td>#11</td>
+<td><a href="todo.md#todo11">#11</a></td>
 <!-- -->
 <td>Dimensionality reduction, cross-validation</td>
 </tr>
