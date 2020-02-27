@@ -86,6 +86,7 @@
 - Scrapy tutorial [[link](https://doc.scrapy.org/en/latest/intro/tutorial.html)]
 - Mapping the United Swears of America by Jack Grieve [[link](https://stronglang.wordpress.com/2015/07/28/mapping-the-united-swears-of-america/)]
 - _Python Data Science Handbook_. (2016) O'Reilly Media [[book](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)]
+- List of English stop word lists collected by Igor Brigadir [[link](https://github.com/igorbrigadir/stopwords/blob/master/en_stopwords.csv)]
 - Movie Reviews Sentiment Analysis with Scikit-Learn [[link](http://www.pitt.edu/~naraehan/presentation/Movie%20Reviews%20sentiment%20analysis%20with%20Scikit-Learn.html)]
 - Topic Modeling with Scikit Learn [[link](https://medium.com/@aneesha/topic-modeling-with-scikit-learn-e80d33668730)]
 - (DataCamp) Supervised Learning with scikit-learn [[tutorial](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)]
