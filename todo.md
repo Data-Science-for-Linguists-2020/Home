@@ -168,3 +168,18 @@ Also: watch these (or equivalent) YouTube tutorials [Scikit-Learn Tutorial | Mac
 Students who took LING 1330: compare sklearn's Naive Bayes with [NLTK's treatment](http://www.pitt.edu/~naraehan/ling1330/Lecture11.pdf) and include a blurb on your impression. (You don't have to run NLTK's code, unless you want to!)
 
 **SUBMISSION**: Your jupyter notebook file should be in the `todo10` folder of [`Class-Exercise-Repo`](https://github.com/Data-Science-for-Linguists-2020/Class-Exercise-Repo). As usual, push to your fork and create a pull request.
+
+
+<a name="todo11"/></a>
+## To-do #11
+Due 3/3 (Tue)
+
+What has everyone been up to? Let's take a look -- it's a "visit your classmates" day!
+
+- First off, prepare your own "Guestbook" file. It's already been created in the [`Class-Plaza` repo](https://github.com/Data-Science-for-Linguists-2020/Class-Plaza/tree/master/guestbooks), but you should edit it so that:
+   - It has your project title and a link to your repo, and your name
+   - And a bit of personalization if you want, like a greeting.
+- Now visit your classmates' projects! We will go in alphabetical order by first name, [as seen in the directory](https://github.com/Data-Science-for-Linguists-2020/Class-Plaza/tree/master/guestbooks). You should visit two people after you (Anthony: Joey and Jordan; Joey: Jordan and Juan; Natasha: Sean and Anthony; etc.) 
+- Take a look around, and write on their guestbook. (You don't have to wait until it's prepped.) Like the previous To-do, your entry should consist of: one thing you thought was done well, one avenue for improvement or suggestion, and one thing you learned.
+
+**SUBMISSION**: Since `Class-Plaza` is a fully collaborative repo, there is no formal submission process.
