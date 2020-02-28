@@ -165,7 +165,7 @@
 
 <tr>
 <td>3/5</td>
-<td>Homework 3</td>
+<td><a href="Homeworks/hw3.md">Homework 3</a></td>
 <!-- -->
 <td>Homework 3 review</td>
 </tr>
