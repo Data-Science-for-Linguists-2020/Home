@@ -160,7 +160,7 @@
 <td>3/3</td>
 <td><a href="todo.md#todo11">#11</a></td>
 <!-- -->
-<td>Dimensionality reduction, cross-validation</td>
+<td>[<a href="Notebooks/addressing_overfitting.ipynb">notebook</a>] Dimensionality reduction, cross-validation</td>
 </tr>
 
 <tr>
