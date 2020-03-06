@@ -177,7 +177,7 @@
 <tr>
 <td rowspan="2">10</td>
 <td>3/17</td>
-<td><div class="right"><i>2nd progress report</i></div></td>
+<td><div class="right"><i><a href="project.md#prog2">2nd progress report</a></i></div></td>
 <td rowspan="5">Big data</td>
 <td>Bash and command line <div class="right"><i>Command line, BASH, Unix tools</i></div></td>
  </tr>

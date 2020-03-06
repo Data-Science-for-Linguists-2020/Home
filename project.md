@@ -193,3 +193,47 @@ Some of you may have discovered that your project is not panning out as you had 
 </div>  
 
 **Submission**: Your project repo counts as your submission.
+
+<a name="prog2"/></a>
+## 2nd Progress Report
+
+For the 2nd progress report, **ease up your focus on data** and start working on **analysis**. This milestone consists of 20 data points, 10 analysis points and 10 presentation points. Goals:
+
+- Complete your the data acquisition process.
+- Be mostly done with cleaning and reorganizing your data. It should be more or less in its final form.
+- The overall format, shape and size of your data should be known at this point. Document them.
+- Finalize the sharing scheme of the "found" portion of your data, and get your overall data into a sharable form.
+- Finalize the license for your data and project.
+- Start bringing in the analysis part into your project. In particular, your manipulation of data should be shaped by the linguistic analysis you are after.
+
+As for the progress report itself, these should be the content:
+
+1. Your **progress report**: `progress_report.md`
+   - Create a section entitled “2nd Progress Report”, and then provide a summary of what you accomplished. Again keep it short (a screen-full), and provide links to related documents, including your Jupyter Notebook and other folders/documents.
+   - Include two subsections:
+       - Sharing scheme for the "found" portion of your data. You had already made some tentative plans as part of the previous progress report; you are finalizing the scheme here.
+       - Your decision on licensing for your project and reasons/justification. See "Your license" item below.
+
+1. Your code, in **Jupyter Notebook** form. You have three options:
+   - EXISTING: the existing script file which was part of your 1st progress report. You continue to update and add to it.
+   - NEW REPLACEMENT: a whole new script file that replaces the earlier one. The script you submitted earlier as part of the 1st progress report is now regarded as initial exploration and is no longer part of your work pipeline.
+   - NEW CONTINUING: a new script file that's part of a pipeline. The earlier script you submitted for the 1st progress report accomplishes PART 1 of your work pipeline, and this new file is PART 2 that picks up where PART 1 left off.
+   - On top of your script, specify which type it is so we will have a sense of how the script fits in your project. Make a note of this in your progress report section as well.
+
+1. Your **data**: include it in a designated folder. Suggested name: `data/`. Be careful not to commit anything that you cannot publish.
+   - If including the found portion of your data in its entirety, make sure it's within your right to do so. Present a justification in progress report.
+   - If you are including samples, make sure it's within fair use. Document your sampling method and justification in progress report.
+   - Are you including derived data? Again provide justification.
+   - Are you including some new data you created yourself, like annotation? Again, document it.
+
+1. Your **license**: `LICENSE.md`.
+   - This is a binding licensing document, intended as audience-facing. This is where you lay out your licensing terms _for your future visitors_ wanting to _use your data and code_.
+   - Do not confuse this with the license of the dataset you downloaded: this document is about YOU specifying a license for YOUR PROJECT REPOSITORY.
+   - You may adopt popular, existing licensing standards: revisit Lauren Collister's materials, and consult [this quick guide](https://github.blog/2013-07-15-choosing-an-open-source-license/) and also [this one from GitHub Help](https://help.github.com/en/articles/licensing-a-repository).
+   - Include reasons/justifications in the appropriate subsection in your progress report.
+
+
+**Submission**: Your project repo counts as your submission.
+
+**NOTE**: After 'submission', don't hold yourself back from pushing more updates and changes thinking you should freeze the repo until grading is done.
+There's no need: the instructors have access to your repo at every stage it moves through.
