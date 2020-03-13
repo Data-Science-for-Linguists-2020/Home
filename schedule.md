@@ -178,74 +178,74 @@
 <td rowspan="2">10</td>
 <td>3/17</td>
 <td><div class="right"><i><a href="project.md#prog2">2nd progress report</a></i></div></td>
-<td rowspan="5">Big data</td>
-<td>Bash and command line <div class="right"><i>Command line, BASH, Unix tools</i></div></td>
- </tr>
+<td rowspan="2" colspan="2" class="greyout" align="center"><b>Class cancelled</b></td>
+</tr>
 
 <tr>
 <td>3/19</td>
+<td></td>
+<!-- -->
+</tr>
+
+<tr>
+<td rowspan="2">11</td>
+<td>3/24</td>
+<td></td>
+<td rowspan="4">Big data</td>
+<td>Bash and command line. Guest speaker Barry Moore III? <div class="right"><i>Command line, BASH, Unix tools</i></div></td>
+ </tr>
+
+<tr>
+<td>3/26</td>
 <td>#12</td>
 <!-- -->
 <td>Command line, grep</td>
 </tr>
 
 <tr>
-<td rowspan="2">11</td>
-<td>3/24</td>
+<td rowspan="2">12</td>
+<td>3/31</td>
 <td>#13</td>
 <!-- -->
-<td>Supercomputing at <a href="https://crc.pitt.edu/">CRC</a>, SSH, command line. Guest speaker Barry Moore III</td>
+<td>Supercomputing at <a href="https://crc.pitt.edu/">CRC</a>, SSH, command line</td>
 </tr>
 
 <tr>
-<td>3/26</td>
+<td>4/2</td>
 <td>#14</td>
 <!-- -->
 <td>Computational efficiency, machine learning big data, word embeddings</td>
 </tr>
 
 <tr>
-<td rowspan="2">12</td>
-<td>3/31</td>
+<td rowspan="2">13</td>
+<td>4/7</td>
 <td>Homework 4</td>
-<!-- -->
+<td></td>
 <td>Homework 4 review</td>
 </tr>
 
 <tr>
-<td>4/2</td>
-<td>#15</td>
-<td rowspan="2">Speech &amp; multimedia</td><td>Speech data, ASR theory <div class="right"><i>Praat</i></div></td>
-</tr>
-
-<tr>
-<td rowspan="2">13</td>
-<td>4/7</td>
-<td><div class="right"><i>3rd progress report</i></div></td>
-<td>More speech data, multimodal data
-<div class="right"><i>Elan</i></div></td>
-</tr>
-
-<tr>
 <td>4/9</td>
-<td>#16</td>
-<td rowspan="3"><i>Project presentations</i></td>
-<td></td>
+<td>#15</td>
+<td rowspan="2">Speech &amp; multimedia</td>
+<td>Speech data, ASR theory <div class="right"><i>Praat</i></div></td>
 </tr>
 
 <tr>
 <td rowspan="2">14</td>
 <td>4/14</td>
-<td></td>
+<td><div class="right"><i>3rd progress report</i></div></td>
 <!-- -->
-<td></td>
+<td>More speech data, multimodal data
+<div class="right"><i>Elan</i></div></td>
 </tr>
 
 <tr>
 <td>4/16</td>
-<td></td>
+<td>#16</td>
+<td colspan="2"><i>Project presentations</i></td>
 <!-- -->
-<td></td>
 </tr>
 
 

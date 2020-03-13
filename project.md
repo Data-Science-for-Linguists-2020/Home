@@ -1,6 +1,6 @@
 # Term Project Guidelines
 
-Jump to: [Components](#components), [Submission](#submission), [Milestones](#milestones), [Project Ideas](#ideas), [Project Plan](#plan), [1st Progress Report](#prog1).
+Jump to: [Components](#components), [Submission](#submission), [Milestones](#milestones), [Project Ideas](#ideas), [Project Plan](#plan), [1st Progress Report](#prog1), [2nd Progress Report](#prog2).
 
 Individual students will work on a project of their own choice and design over the course of the semester, culminating with a class presentation followed by a final project delivery. The goal of this project is to make a linguistic discovery through application of data-intensive methods.
 
@@ -162,7 +162,7 @@ Launch your project as a GitHub repository and publish a project plan.
 For the 1st progress report, **focus on your data**. This milestone consists of 30 data points and 10 presentation points. Goals:
 
 - Attempt and mostly complete the data acquisition process.
-- Start and make a head way into cleaning and reorganizing your data.
+- Start and make headway into cleaning and reorganizing your data.
 - By now, you should have concrete ideas on the "data end game": what your data's final form will be like, the target total size, format, etc.
 - Devise a couple of options regarding the "sharing plan" of your data.
 
