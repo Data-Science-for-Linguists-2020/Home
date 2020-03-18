@@ -140,8 +140,10 @@ Below focuses more on the software tools side of resources.
 
 - Software Carpentry Lesson: The Unix Shell [[link](http://swcarpentry.github.io/shell-novice/)]
 - Thirty Useful Unix Commands [[PDF](http://www.maths.manchester.ac.uk/~pjohnson/resources/unixShort/examples-commands.pdf)]
+- An Introduction to Unix [[link](http://oliverelliott.org/article/computing/tut_unix/)]
 - Regular Expressions Tutorial [[link](https://www.regular-expressions.info/tutorial.html)]
 - The best introduction ever to `grep`, by softpanorama.org [[link](http://www.softpanorama.org/Tools/grep.shtml#Introduction)]
+- Short advanced tutorials and FAQs [[link](https://www.cyberciti.biz/faq/category/bash-shell/)]
 
 <a name="editor"/></a>
 ### Text Editor
