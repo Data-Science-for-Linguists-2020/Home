@@ -197,7 +197,7 @@
 
 <tr>
 <td>3/26</td>
-<td>#12</td>
+<td></td>
 <!-- -->
 <td>Command line, grep</td>
 </tr>
@@ -205,14 +205,14 @@
 <tr>
 <td rowspan="2">12</td>
 <td>3/31</td>
-<td>#13</td>
+<td>#12</td>
 <!-- -->
 <td>Supercomputing at <a href="https://crc.pitt.edu/">CRC</a>, SSH, command line</td>
 </tr>
 
 <tr>
 <td>4/2</td>
-<td>#14</td>
+<td>#13</td>
 <!-- -->
 <td>Computational efficiency, machine learning big data, word embeddings</td>
 </tr>
@@ -227,7 +227,7 @@
 
 <tr>
 <td>4/9</td>
-<td>#15</td>
+<td>#14</td>
 <td rowspan="2">Speech &amp; multimedia</td>
 <td>Speech data, ASR theory <div class="right"><i>Praat</i></div></td>
 </tr>
@@ -243,7 +243,7 @@
 
 <tr>
 <td>4/16</td>
-<td>#16</td>
+<td>#15</td>
 <td colspan="2"><i>Project presentations</i></td>
 <!-- -->
 </tr>
