@@ -192,7 +192,7 @@
 <td>3/24</td>
 <td></td>
 <td rowspan="4">Big data</td>
-<td>Bash and command line. Guest speaker Barry Moore II? <div class="right"><i>Command line, BASH, Unix tools</i></div></td>
+<td>[<a href="Slides/ling1340-2020s.pdf">slides</a>] Bash and command line. Guest speaker Barry Moore II <div class="right"><i>Command line, BASH, Unix tools</i></div></td>
  </tr>
 
 <tr>
