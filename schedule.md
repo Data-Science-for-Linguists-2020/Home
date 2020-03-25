@@ -205,7 +205,7 @@
 <tr>
 <td rowspan="2">12</td>
 <td>3/31</td>
-<td>#12</td>
+<td><a href="todo.md#todo12">#12</a></td>
 <!-- -->
 <td>Supercomputing at <a href="https://crc.pitt.edu/">CRC</a>, SSH, command line</td>
 </tr>

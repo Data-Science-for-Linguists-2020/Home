@@ -179,7 +179,65 @@ What has everyone been up to? Let's take a look -- it's a "visit your classmates
 - First off, prepare your own "Guestbook" file. It's already been created in the [`Class-Plaza` repo](https://github.com/Data-Science-for-Linguists-2020/Class-Plaza/tree/master/guestbooks), but you should edit it so that:
    - It has your project title and a link to your repo, and your name
    - And a bit of personalization if you want, like a greeting.
-- Now visit your classmates' projects! We will go in alphabetical order by first name, [as seen in the directory](https://github.com/Data-Science-for-Linguists-2020/Class-Plaza/tree/master/guestbooks). You should visit two people after you (Anthony: Joey and Jordan; Joey: Jordan and Juan; Natasha: Sean and Anthony; etc.) 
+- Now visit your classmates' projects! We will go in alphabetical order by first name, [as seen in the directory](https://github.com/Data-Science-for-Linguists-2020/Class-Plaza/tree/master/guestbooks). You should visit two people after you (Anthony: Joey and Jordan; Joey: Jordan and Juan; Natasha: Sean and Anthony; etc.)
 - Take a look around, and write on their guestbook. (You don't have to wait until it's prepped.) Like the previous To-do, your entry should consist of: one thing you thought was done well, one avenue for improvement or suggestion, and one thing you learned.
 
 **SUBMISSION**: Since `Class-Plaza` is a fully collaborative repo, there is no formal submission process.
+
+
+
+<a name="todo12"/>
+## To-do #12
+Due 3/31 (Tue)
+
+Let's **poke at big data**. Well, big-ish.
+[The Yelp Open Dataset](https://www.yelp.com/dataset) is a subset of their review data, available specifically for use in educational and academic contexts. Let's check it out!  Before we begin:
+
+- You will need a fairly stable internet connection and at least 14GB of free hard drive space.
+- Provision enough time. Downloading the dataset alone may take 25 minutes or longer.
+- If your laptop is fairly old or running out of space, let me know!  
+
+#### Mode of operation
+- After downloading the data set, you should operate exclusively in a command-line environment, utilizing unix tools.
+- I am supplying general instructions below, but you will have to fill in the blanks between steps, such as cd-ing into the right directory, invoking your Anaconda Python and finding the right file argument.
+- You will be submitting a _short_ (paragraph-length -- this is just a To-do!) write-up as a Markdown file named `yelp_tryout_yourname.md` in the `to-do12/` directory of [`Class-Exercise-Repo`](https://github.com/Data-Science-for-Linguists-2020/Class-Exercise-Repo).
+
+#### Step 1: Preparation, exploration
+
+Let's download this beast and poke around.
+
+1. Download the JSON portion of the data. (We don't need the photos.)
+1. Move the downloaded archive file into your `Documents/Data_Science` directory. You might want to create a new folder there for the data files.  
+1. From this point on, **operate exclusively in command line**.
+1. The file is in the `.tar` format. Look it up if you are not familiar. Untar it using `tar -xvf`. It will extract 6 json files along with some PDF documents.
+1. Using various unix commands (`ls -laFh`, `head`, `tail`, `wc -l`, etc.), find out: how big are the json files? What do the contents look like? How many reviews are there?
+1. How many reviews use the word 'horrible'? Find out through `grep` and `wc -l`. Take a look at the first few through `head | less`. Do they seem to have high or low stars?
+1. How many reviews use the word 'scrumptious'? Do they seem to have high stars this time?
+
+#### Step 2: A stab at processing
+How much processing can our own puny personal computer handle? Let's find out.
+1. First, take stock of your computer hardware: disk space, memory, processor, and how old it is.
+1. Create a Python script file: `process_reviews.py`. Content below. You can use nano, or you could use your favorite editor (atom, notepad++) provided that you launch the application through command line.
+
+```python
+import pandas as pd
+import sys
+from collections import Counter
+
+filename = sys.argv[1]
+
+df = pd.read_json(filename, lines=True, encoding='utf-8')
+print(df.head(5))
+
+wtoks = ' '.join(df['text']).split()
+wfreq = Counter(wtoks)
+print(wfreq.most_common(20))
+```
+
+1. We are NOT going to run this on the whole `review.json` file! Start small by creating a tiny version  consisting of the first 10 lines, named `FOO.json`, using `head` and `>`.
+1. Then, run `process_reviews.py` on `FOO.json`. Note that the json file should be supplied as command-line argument to the Python script. Confirm it runs successfully.
+1. Next, re-create `FOO.json` with incrementally larger total # of lines and re-run the Python script. The point is to find out how much data your system can reasonably handle. Could that be 1,000 lines? 100,000?
+1. While running this experiment, closely monitor the process on your machine. Windows users should use [Task Manager](https://www.howtogeek.com/108742/how-to-use-the-new-task-manager-in-windows-8/), and Mac users should use [Activity Monitor](https://support.apple.com/en-us/HT201464).
+1. Finally, write up a short reflection summary as `yelp_tryout_yourname.md`. A paragraph will do. How was your laptop's handling of this data set? What sorts of resources would it take to successfully process it in its entirety and through more computationally demanding processes? Any other observations?
+
+**SUBMISSION**: Your markdown file should be in the `todo12` directory in [`Class-Exercise-Repo`](https://github.com/Data-Science-for-Linguists-2020/Class-Exercise-Repo). Make sure you use the naming convention described here! As usual, push to your fork and create a pull request.
