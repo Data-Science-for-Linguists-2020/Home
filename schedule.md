@@ -199,7 +199,7 @@
 <td>3/26</td>
 <td></td>
 <!-- -->
-<td>Command line, grep</td>
+<td>[<a href="Whirlwind bash tour.pdf">handout</a>] Command line, grep</td>
 </tr>
 
 <tr>
@@ -212,7 +212,7 @@
 
 <tr>
 <td>4/2</td>
-<td>#13</td>
+<td><a href="todo.md#todo13">#13</a></td>
 <!-- -->
 <td>Computational efficiency, machine learning big data, word embeddings</td>
 </tr>

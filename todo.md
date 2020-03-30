@@ -186,7 +186,7 @@ What has everyone been up to? Let's take a look -- it's a "visit your classmates
 
 
 
-<a name="todo12"/>
+<a name="todo12"/></a>
 ## To-do #12
 Due 3/31 (Tue)
 
@@ -210,7 +210,7 @@ Let's download this beast and poke around.
 1. Move the downloaded archive file into your `Documents/Data_Science` directory. You might want to create a new folder there for the data files.  
 1. From this point on, **operate exclusively in command line**.
 1. The file is in the `.tar` format. Look it up if you are not familiar. Untar it using `tar -xvf`. It will extract 6 json files along with some PDF documents.
-1. Using various unix commands (`ls -laFh`, `head`, `tail`, `wc -l`, etc.), find out: how big are the json files? What do the contents look like? How many reviews are there?
+1. Using various unix commands (`ls -lhAF`, `head`, `tail`, `wc -l`, etc.), find out: how big are the json files? What do the contents look like? How many reviews are there?
 1. How many reviews use the word 'horrible'? Find out through `grep` and `wc -l`. Take a look at the first few through `head | less`. Do they seem to have high or low stars?
 1. How many reviews use the word 'scrumptious'? Do they seem to have high stars this time?
 
@@ -241,3 +241,17 @@ print(wfreq.most_common(20))
 1. Finally, write up a short reflection summary as `yelp_tryout_yourname.md`. A paragraph will do. How was your laptop's handling of this data set? What sorts of resources would it take to successfully process it in its entirety and through more computationally demanding processes? Any other observations?
 
 **SUBMISSION**: Your markdown file should be in the `todo12` directory in [`Class-Exercise-Repo`](https://github.com/Data-Science-for-Linguists-2020/Class-Exercise-Repo). Make sure you use the naming convention described here! As usual, push to your fork and create a pull request.
+
+
+<a name="todo13"/></a>
+## To-do #13
+Due 4/2 (Thu)
+
+It's "visit your classmates" day, round 2!
+
+- First, maintain your own guestbook. Respond to your classmates' visit logs.
+   - No need to post a lengthy response -- you are not starting a debate here!  You can think of it as something akin to Facebook's "like", just a small acknowledgment and a thank you.
+- Now visit your classmates' projects. Like before we go by the order of first names, which can be [found right in the directory](https://github.com/Data-Science-for-Linguists-2020/Class-Plaza/tree/master/guestbooks). You should visit two people after your previous visits.  
+   - Take a look around, and write on their guestbook. Like the previous visit, your entry should consist of: one thing you thought was done well, one avenue for improvement or suggestion, and one thing you learned. 
+
+**SUBMISSION**: Since `Class-Plaza` is a fully collaborative repo, there is no formal submission process.
