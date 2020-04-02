@@ -60,6 +60,8 @@ That's a lot of moving parts and files, so create a summary document that rounds
 - Start early! Your slurm jobs will be stuck in a batch queue and and have to wait their turn to run. And when they start running, they'll probably take a while. They might even crash halfway through running if you have mistakes in your code...
 - If you need some additional python package, after loading the appropriate python module on CRC, run `pip install <package> --user` to install a copy for yourself. If you need the package on  [https://hub.crc.pitt.edu](https://hub.crc.pitt.edu), in a cell at the top of your notebook, run `!pip install <package> --user`.
 - If you choose **Python 3.7**, `nltk` is not installed for this version: you will need to install your own personal copy. Alternatively, you may choose **Python 3.6**, which does come with the `nltk` library.
+- "import nltk" still not working after you install? Try shutting down 
+your kernel, clearing the output, and try again!
 - The Yelp dataset as well as NLTK's corpus and grammar data are all found in last year's shared data folder: `/zfs2/ling1340-2019s/shared_data/`.
 - To run any NLTK function that relies on `nltk_data` (e.g., `word_tokenize`), you should execute `nltk.data.path.append('/zfs2/ling1340-2019s/shared_data/nltk_data')` in your script.
 - You will have to mess around with your #SBATCH settings on your job script. Things like runtime, and memory configurations may cause your jobs to fail.
