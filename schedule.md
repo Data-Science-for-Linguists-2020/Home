@@ -214,13 +214,13 @@
 <td>4/2</td>
 <td><a href="todo.md#todo13">#13</a></td>
 <!-- -->
-<td>Computational efficiency, machine learning big data, word embeddings</td>
+<td>[<a href="Slides/lecture10.pdf">slides</a>] Computational efficiency, machine learning big data, word embeddings</td>
 </tr>
 
 <tr>
 <td rowspan="2">13</td>
 <td>4/7</td>
-<td>Homework 4</td>
+<td><a href="Homeworks/hw4.md">Homework 4</a></td>
 <td></td>
 <td>Homework 4 review</td>
 </tr>
