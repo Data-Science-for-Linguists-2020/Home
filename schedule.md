@@ -191,7 +191,7 @@
 <td rowspan="2">11</td>
 <td>3/24</td>
 <td></td>
-<td rowspan="4">Big data</td>
+<td rowspan="6">Big data</td>
 <td>[<a href="Slides/ling1340-2020s.pdf">slides</a>] Bash and command line. Guest speaker Barry Moore II <div class="right"><i>Command line, BASH, Unix tools</i></div></td>
  </tr>
 
@@ -220,25 +220,23 @@
 <tr>
 <td rowspan="2">13</td>
 <td>4/7</td>
-<td><a href="Homeworks/hw4.md">Homework 4</a></td>
 <td></td>
-<td>Homework 4 review</td>
+<td>Homework 4 troubleshooting</td>
 </tr>
 
 <tr>
 <td>4/9</td>
-<td>#14</td>
-<td rowspan="2">Speech &amp; multimedia</td>
-<td>Speech data, ASR theory <div class="right"><i>Praat</i></div></td>
+<td><a href="Homeworks/hw4.md">Homework 4</a></td>
+<td>Homework 4 review</td>
 </tr>
 
 <tr>
 <td rowspan="2">14</td>
 <td>4/14</td>
 <td><div class="right"><i>3rd progress report</i></div></td>
-<!-- -->
-<td>More speech data, multimodal data
-<div class="right"><i>Elan</i></div></td>
+<td>Speech &amp; multimedia</td>
+<td>Speech data, ASR theory, multimodal data
+<div class="right"><i>Praat, Elan</i></div></td>
 </tr>
 
 <tr>
