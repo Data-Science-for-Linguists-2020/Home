@@ -237,3 +237,32 @@ As for the progress report itself, these should be the content:
 
 **NOTE**: After 'submission', don't hold yourself back from pushing more updates and changes thinking you should freeze the repo until grading is done.
 There's no need: the instructors have access to your repo at every stage it moves through.
+
+
+<a name="prog3"/></a>
+## 3rd Progress Report
+
+For the 3rd and last progress report, you should focus on **analysis**. This milestone consists of 10 data points, 20 analysis points and 10 presentation points. Goals:
+- Wrap up your data-side effort: your data is in its final form with clear documentation.
+- The license for your data and project is all ready, and your data is in its ready-to-share form.
+- Make headway into the analysis part of your project. You should have some preliminary findings that are either sufficiently close to what you set out to investigate, or at least meaningful enough in their own right and point to immediate next steps.
+
+As for the progress report itself, these should be the content:
+
+1. Your **progress report**: `progress_report.md`
+   - Create a section entitled “3rd Progress Report”, and then provide a summary of what you accomplished. Again keep it short (a screen-full), and provide links to related documents, including your Jupyter Notebook and other folders/documents.
+
+1. Your code in the form of **Jupyter Notebook**. The same three options:
+   - EXISTING: the existing script file which was part of your earlier progress report. You continue to update and add to it.
+   - NEW REPLACEMENT: a whole new script file that replaces something earlier. The script you submitted earlier as part of the 1st progress report is now regarded as initial exploration and is no longer part of your work pipeline.
+   - NEW CONTINUING: a new script file that's part of a pipeline. The earlier script you submitted for a previous progress report accomplishes PART 1 of your work pipeline, and this new file is PART 2 that picks up where PART 1 left off.
+   - On top of your script, specify which type it is so we will have a sense of how the script fits in your project. Make a note of this in your progress report section as well.
+
+1. Your **data**:
+   - Some of you have worked on your data files. Make sure to note it in your progress report.
+   - Are your data files finished as of last progress report? No new changes since? If so, make a note of it in your progress report.
+
+1. `README.md` file:
+   - We'll give this file a proper structure in due time, but for now, put a link to your guestbook, so you'll have a handy link.    
+
+**Submission**: Your project repo counts as your submission.
