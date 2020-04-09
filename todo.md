@@ -252,6 +252,15 @@ It's "visit your classmates" day, round 2!
 - First, maintain your own guestbook. Respond to your classmates' visit logs.
    - No need to post a lengthy response -- you are not starting a debate here!  You can think of it as something akin to Facebook's "like", just a small acknowledgment and a thank you.
 - Now visit your classmates' projects. Like before we go by the order of first names, which can be [found right in the directory](https://github.com/Data-Science-for-Linguists-2020/Class-Plaza/tree/master/guestbooks). You should visit two people after your previous visits.  
-   - Take a look around, and write on their guestbook. Like the previous visit, your entry should consist of: one thing you thought was done well, one avenue for improvement or suggestion, and one thing you learned. 
+   - Take a look around, and write on their guestbook. Like the previous visit, your entry should consist of: one thing you thought was done well, one avenue for improvement or suggestion, and one thing you learned.
 
 **SUBMISSION**: Since `Class-Plaza` is a fully collaborative repo, there is no formal submission process.
+
+
+<a name="todo14"/></a>
+## To-do #14
+Due 4/16 (Thu)
+
+Visit your classmates, round 3.  
+
+- You know what to do! This time, visit all three projects you haven't visited yet.

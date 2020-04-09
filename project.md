@@ -1,6 +1,6 @@
 # Term Project Guidelines
 
-Jump to: [Components](#components), [Submission](#submission), [Milestones](#milestones), [Project Ideas](#ideas), [Project Plan](#plan), [1st Progress Report](#prog1), [2nd Progress Report](#prog2).
+Jump to: [Components](#components), [Submission](#submission), [Milestones](#milestones), [Project Ideas](#ideas), [Project Plan](#plan), [1st Progress Report](#prog1), [2nd Progress Report](#prog2), [3rd Progress Report](#prog3), [Presentation Guidelines](#presentation), [Final Project Submission Guidelines](#final).
 
 Individual students will work on a project of their own choice and design over the course of the semester, culminating with a class presentation followed by a final project delivery. The goal of this project is to make a linguistic discovery through application of data-intensive methods.
 
@@ -266,3 +266,85 @@ As for the progress report itself, these should be the content:
    - We'll give this file a proper structure in due time, but for now, put a link to your guestbook, so you'll have a handy link.    
 
 **Submission**: Your project repo counts as your submission.
+
+
+<a name="presentation"/></a>
+## Presentation Guidelines
+
+#### Format
+- Your presentation will consist of two parts: a ~20 minute recorded presentation using PowerPoint or an equivalent; and a ~5 minute condensed summary in class on Thursday, April 16th.
+
+#### Content
+- Your project, of course! But unlike your project itself that dives right into data, you should start with **motivating and contextualizing your project topic**. That means supplying background information, research questions, theoretical foundations and related literature, and so on.
+- And, be sure to **show** your data and findings through visualization. All the nifty plots and charts you have been generating can be saved as an image file, which you can incorporate into slides.
+- Make sure to include an analysis as the central focus.
+
+#### Evaluation
+- Your presentation carries a **total of 60 points**, with 30 points based on analysis and the remaining 30 on the presentational aspect.
+- Overall, it will be evaluated based on the following: accuracy and depth of content, originality, presentation, and delivery.
+
+<!--
+If you are presenting in Week 14, I will take into consideration that your analysis part may be slightly less developed.
+-->
+
+
+<a name="final"/></a>
+## Final Project Submission Guidelines
+
+You've worked hard through many project milestones, and it's time to prepare your project for final submission. Unlike the three progress reports where the focus was firmly on the process, the final submission should highlight the results and your interpretation of them. The process should still get a fair and clear illustration, but you should prune out from your production code any "branches" representing trials-and-errors that led to a dead end. (You are encouraged to move any old code bits into a designated subfolder.) All in all, your GitHub repo should present a coherent picture of your project, from start to finish.
+
+#### Your repo: files and folders
+
+(Note: Objects that are entirely/substantially new in this submission are in <span style="color:blue">blue</span>.) Below are the required files with fixed file names:
+
+- LICENSE.md
+- project_plan.md
+- progress_report.md
+- <span style="color:blue">README.md</span> (Details below)
+- <span style="color:blue">final_report.md</span> (Details below)
+
+In addition, you should have:
+- A designated folder for your data, and data files inside
+- <span style="color:blue">A designated folder for figures, graphs and other image files</span> (Details below)
+- Jupyter Notebook files (Details below)
+- <span style="color:blue">Your presentation slides</span>, saved in a PDF format
+
+Lastly, some of you might have extra files and directories serving some purpose. Perhaps a folder containing some old code that is no longer relevant, or something like that. Make sure to explain what these are in your `README.md` document.
+
+#### README.md
+
+Revamp your README document and give it a proper structure. This document is what greets your visitors, so its goal should be to give them a short but proper orientation. It should include:
+
+- Front matter: the title of your project, your name, email, date
+- A brief description of your project
+- A brief description of the "found" data set you started your project with. Include a web link (if any) along with proper attribution.
+- A "directory" of your repo. Have a bullet-point list of the files and folders along with a one-line description of what they are. Make them into clickable links so your visitors can easily navigate to the files/folders.
+   - For your Jupyter Notebook files, provide a link to the nbviewer's version in addition to the usual GitHub view. You can do this by prefixing `https://nbviewer.jupyter.org/github/` instead of `https://github.com/`. [Example](https://github.com/Data-Science-for-Linguists-2020/Home/blob/master/Notebooks/regression_intro.ipynb) [here](https://nbviewer.jupyter.org/github/Data-Science-for-Linguists-2020/Home/blob/master/Notebooks/regression_intro.ipynb)
+- Do NOT list individual data files or image files under a subfolder.
+- A link to your visitor's log.
+
+#### Images folder and files
+Your `final_report.md` file will need figures and graphs for illustration.
+- Have a folder, named `images` or something, where all image files should go.
+- Plots can easily be exported. [See here](https://pythonspot.com/matplotlib-save-figure-to-image-file/). Alternatively, they are automatically exported as .png files during Jupyter Notebook --> Markdown conversion.
+- With other types of objects, say trees, see if you can export them as an image file. As a last resort, you may use screenshots, but **only as a very last resort**.
+
+#### Your code: Jupyter Notebook
+The same usual guidelines for your Jupyter Notebook files continue to apply: your code should work correctly while walking the audience through the whole process. This time around, however, your code should be in a streamlined form: you should prune your code of any unsuccessful bits and experiments that have since been abandoned. In other words, your code files should demonstrate your project in a lean and coherent manner. Some important points:
+
+1. For many of you, breaking down your code into multiple Jupyter Notebook files will make organizational sense. For example, the first notebook could focus on data clean-up effort, and the second one takes from there and conducts data analysis, and so forth.
+1. Still, your Jupyter Notebook file will get long and unwieldy, which makes scrolling a pain. So please include a table of contents with shortcuts to various subsections.
+1. Your code may produce interim outputs (such as saved pickle files). If you decide against sharing them, make sure to exclude them from GitHub repo via `.gitignore`.
+1. Make sure to "Restart & Run All" your Jupyter Notebook file before pushing to your GitHub repo! You want all cell outputs to be tidy.
+
+#### final_report.md
+Think of this as a usual "final report" that is in a markdown format instead of MS Word. Details:
+
+- Shoot for around 1,500 words, excluding references if any. That's the length of a short paper of about 4-5 pages. (Remember to use the `wc` command!)
+- Use headers and clearly mark your sections.
+- Use visualization! Display figures you had saved as external image files.
+- Link to relevant parts of your Jupyter Notebook. As explained above, you should reference sections of your code on jupyter.org's nbviewer.
+- What should you include in this report? Revisit the [overall description of the term project](#components) at the top of this page.
+- Have a paragraph devoted to the overall history and process of your project, warts and all. Document setbacks, false starts, and other difficulties you experienced.
+
+**Submission**: Your entire project repo is your submission. Make sure everything is in order and looks good. It is due at the end of April 24 (Fri), meaning 11:59pm.

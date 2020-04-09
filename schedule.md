@@ -241,8 +241,8 @@
 
 <tr>
 <td>4/16</td>
-<td>#15</td>
-<td colspan="2"><i>Project presentations</i></td>
+<td><a href="todo.md#todo14">#14</a></td>
+<td colspan="2"><i><a href="project.md#presentation">Project presentations</a></i></td>
 <!-- -->
 </tr>
 
@@ -250,7 +250,7 @@
 <tr>
 <td>15</td>
 <td>4/24</td>
-<td><div class="right"><i>Final project report</i></div></td>
+<td><div class="right"><i><a href="project.md#final">Final project report</a></i></div></td>
 <td class="greyout" align="center" colspan="2"><b>No class: finals week</b></td>
 </tr>
 
