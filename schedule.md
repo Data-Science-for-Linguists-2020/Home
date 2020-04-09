@@ -233,7 +233,7 @@
 <tr>
 <td rowspan="2">14</td>
 <td>4/14</td>
-<td><div class="right"><i>3rd progress report</i></div></td>
+<td><div class="right"><i><a href="project.md#prog3">3rd progress report</a></i></div></td>
 <td>Speech &amp; multimedia</td>
 <td>Speech data, ASR theory, multimodal data
 <div class="right"><i>Praat, Elan</i></div></td>
