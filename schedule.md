@@ -226,7 +226,7 @@
 
 <tr>
 <td>4/9</td>
-<td><a href="Homeworks/hw4.md">Homework 4</a></td>
+<td><a href="Homeworks/hw4.md">Homework 4</a> (moved to 4/14)</td>
 <td>Homework 4 review</td>
 </tr>
 
